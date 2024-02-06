@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Leetcode Problems**
 
-- 🌱 I’m currently learning **android dev**
+- 🌱 I’m currently learning **KOTLIN | JETPACK COMPOSE | DSA**
 
 - 💬 Ask me about **android development**
 
