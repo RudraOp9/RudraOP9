@@ -1,9 +1,9 @@
 
 
-<h1 align="center">Hi 👋, I'm rudra</h1>
+<h1 align="center">स्वागतम् 👋, अहं रुद्रः</h1>
 
 
-- 🔭 I’m currently working on **Leetcode Problems**
+- 🔭 I’m currently working on **Compose | Android devlopment | No paas For You**
 
 - 🌱 I’m currently learning **KOTLIN | JETPACK COMPOSE | DSA**
 
